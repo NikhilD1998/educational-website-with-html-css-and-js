@@ -113,6 +113,11 @@ nav {
   z-index: 11;
 }
 
+.window-scroll {
+  background: var(--color-primary);
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+}
+
 .nav__container {
   height: 100%;
   display: flex;
@@ -194,6 +199,7 @@ header {
   padding: 2rem;
   border-radius: 2rem;
   transition: var(--transition);
+  https: ; //stackoverflow.com/questions/73782320/onbackinvokedcallback-is-not-enabled-for-the-application-in-set-androidenableo#:~:text=Add%20a%20comment-,2%20Answers,-Sorted%20by%3A
 }
 
 .category:hover {
